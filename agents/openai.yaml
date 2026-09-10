@@ -1,0 +1,5 @@
+interface:
+  display_name: "科研技术框架图 PPT"
+  short_description: "将科研课题内容组织为清晰、可编辑的技术框架图演示文稿"
+  brand_color: "#087FC2"
+  default_prompt: "Use $research-framework-ppt to turn my research content into an editable technical framework slide."
